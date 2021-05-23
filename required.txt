@@ -1,0 +1,8 @@
+Pillow==8.1.2
+PyQt5==5.15.4
+PyQt5-sip==12.8.1
+py-notifier==0.1.1
+platform_system == "Windows"
+pynput==1.7.3
+google-cloud-storage==1.38.0
+tk-tools==0.14.0

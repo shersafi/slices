@@ -1,9 +1,9 @@
 #First public build of Slices
 import random #basic random image num gen
-import os
-import io
-import sys
-from io import BytesIO
+import os #for google auth 
+import io #for byte images
+import sys #sys.argv
+from io import BytesIO #byte images
 
 #notifications to desktop
 try:
